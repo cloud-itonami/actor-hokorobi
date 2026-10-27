@@ -1,6 +1,6 @@
 # Hokorobi actor — systemic resilience observatory
 
-Canonical repository: `etzhayyim/actor-hokorobi`.
+Canonical repository: `cloud-itonami/actor-hokorobi`.
 
 Hokorobi is an observation organ of the Tamaki artificial organism. It maps
 publicly disclosed systemic-finance relationships and prepares resilience

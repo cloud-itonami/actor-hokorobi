@@ -7,6 +7,6 @@
  :profile/id "actor-hokorobi"
  :profile/default? true
  :bot/name "actor-hokorobi"
- :bot/brief "etzhayyim/actor-hokorobi の常駐 actor。charter に従って行動する。"
- :bot/context-refs [{:kind "repo" :target "etzhayyim/actor-hokorobi"}]
+ :bot/brief "cloud-itonami/actor-hokorobi の常駐 actor。charter に従って行動する。"
+ :bot/context-refs [{:kind "repo" :target "cloud-itonami/actor-hokorobi"}]
  :bot/tools-requested []}
